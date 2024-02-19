@@ -16,12 +16,10 @@
   ],
   "compatibility": {
     "minimum": "10.291",
-    "verified": 10,
-    "maximum": 10
+    "verified": 10
   },
   "minimumCoreVersion": "10",
-  "scripts": [
-  ],
+  "scripts": [],
   "esmodules": [
     "sgrpg.js"
   ],
